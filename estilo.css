@@ -41,14 +41,15 @@ section{
 	width: 680px; /* Largura*/
 	height: 700px; /* Altura */
 }
-#artigo01{
+#sessao01{
 	background-color: red;
+	width: 660px;
 }
 footer{
 	/*Rodapé da Pagina*/
 	background-color: #598; /*Cor do Fundo*/
 	color: white; /*Cor da Letra*/
-	height: 80px; /* Altura */
+	height: 150px; /* Altura */
 	width: 960px; /* Largura*/
 	float: left; /* Bloco flutuar para esquerda*/
 	margin: 0px;
@@ -57,4 +58,7 @@ footer{
 	font-family: arial; /*Estilo da Letra*/
 	font-size: 20px; /*Tamanho da Letra*/
 	
+}
+address{
+	text-align: left;
 }
