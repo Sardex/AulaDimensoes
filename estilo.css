@@ -1,0 +1,60 @@
+body{
+	/*Configura o Fundo do Site*/
+	background-color: black;/*Cor do Fundo*/
+	width: 980px; /* Largura total da página*/
+	margin: auto; /* Centraliza todas margens da página automaticamente*/
+}
+header{
+	/*Configura o Cabeçalho*/
+	background-color: blue;/*Cor do Fundo*/
+	height: 150px; /* Altura */
+	padding: 10px;
+
+}
+h1{
+	font-family: arial; /*Estilo da Letra*/
+	font-size: 50px; /*Tamanho da Letra*/
+	color: white; /*Cor da Letra*/
+	text-align: center; /*Centraliza o texto dentro do bloco que estiver*/
+}
+nav{
+	/*Configura o Menu Principal*/
+	float: left; /* Bloco flutuar para esquerda*/
+	background-color: #568;/*Cor do Fundo*/
+	color: white; /*Cor da Letra*/
+	width: 150px; /* Largura*/
+	height: 700px; /* Altura */
+}
+aside{
+	/*Configura o Menu Lateral*/
+	float: right; /* Bloco flutuar para direita*/
+	background-color: #568;/*Cor do Fundo*/
+	color: white; /*Cor da Letra*/
+	width: 150px; /* Largura*/
+	height: 700px; /* Altura */
+}
+section{
+	/*Configura onde Conteúdo será Exibido*/
+	float: left; /* Bloco flutuar para esquerda*/
+	background-color: red;/*Cor do Fundo*/
+	color: white; /*Cor da Letra*/
+	width: 680px; /* Largura*/
+	height: 700px; /* Altura */
+}
+#artigo01{
+	background-color: red;
+}
+footer{
+	/*Rodapé da Pagina*/
+	background-color: #598; /*Cor do Fundo*/
+	color: white; /*Cor da Letra*/
+	height: 80px; /* Altura */
+	width: 960px; /* Largura*/
+	float: left; /* Bloco flutuar para esquerda*/
+	margin: 0px;
+	padding: 10px 10px 0px 10px; /*Padding cria um espaço de 10px em torno do Footer*/
+	text-align: right;
+	font-family: arial; /*Estilo da Letra*/
+	font-size: 20px; /*Tamanho da Letra*/
+	
+}
